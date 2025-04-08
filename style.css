@@ -1,0 +1,27 @@
+body {
+    font-family: "Amiri", serif;
+}
+
+.btn {
+    width: fit-content;
+}
+
+.booking-card {
+    margin-bottom: 15px;
+}
+
+/* .booking-card .card-header {
+    background-color: #f0f0f0;
+}
+
+.booking-card.premade {
+    background-color: #d4edda;
+}
+
+.booking-card.direct {
+    background-color: #fff3cd;
+}
+
+.booking-card.emergency {
+    background-color: #f8d7da;
+} */
